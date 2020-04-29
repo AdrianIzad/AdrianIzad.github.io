@@ -202,7 +202,7 @@ input, select, textarea {
 	}
 
 	#adrian {
-		font-family: 'Liu Jian Mao Cao', cursive;
+		font-family: 'Roboto', sans-serif;
 	}
 
 	h2 {
@@ -3315,7 +3315,8 @@ input, select, textarea {
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
-		width: 100%;
+		width: 300vh;
+    		margin: 0 auto;
 	}
 
 		#intro input, #intro select, #intro textarea {
