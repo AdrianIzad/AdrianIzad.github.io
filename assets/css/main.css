@@ -3315,7 +3315,8 @@ input, select, textarea {
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
-		width: 100%;
+		 width: 80vw;
+  		margin: 0 auto;
     		
 	}
 
